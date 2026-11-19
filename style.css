@@ -1,4 +1,8 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
 h1 {
-    color: darkgreen;
-    margin: 20px;
+  color: navy;
 }
